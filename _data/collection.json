@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "AudiAnnotate Lesson - Project Template" ] },
+    "summary": { "en": [ "This project template goes alongside our classroom lesson plan, and can be copied to create your own class project." ] },
+    "items": [
+    ]
+}
