@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/audiannotate-lesson-project-template/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "R_0124_01_01 \"Criminal Syndicalism\" case, McComb, Mississippi" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37",
+        "type": "Text",
+        "label": { "en": [ "R_0124_01_01 \"Criminal Syndicalism\" case, McComb, Mississippi" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/audiannotate-lesson-project-template/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/audiannotate-lesson-project-template/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/audiannotate-lesson-project-template/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1005.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/audiannotate-lesson-project-template/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
